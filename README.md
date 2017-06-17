@@ -10,7 +10,7 @@
 You can try project when you was create database and connect same to config.php file or change all info if you want !
 1. Copy to htdocs folder in xampp directory
 2. Create database: name is 'fashion'
-3. Imprort database (DB is in the database folder, collation = utf8_general_ci)
+3. Import database (DB is in the database folder, collation = utf8_general_ci)
 4. Open browser and try it
 
 ---
